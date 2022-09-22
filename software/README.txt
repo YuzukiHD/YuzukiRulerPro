@@ -1,0 +1,1 @@
+Place to Tina Linux Root, and tar xvf yuzukirulerpro.tar.gz
